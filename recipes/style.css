@@ -1,0 +1,38 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    margin: 8px;
+}
+
+body {
+    background-color: papayawhip;
+}
+
+.home {
+    padding: 12px 0px;
+}
+
+.home-button {
+    color: blue;
+    font-size: 18px;
+}
+
+.title {
+    background-color: lightpink;
+    color: white;
+    padding: 12px 8px;
+    border: 2px solid salmon;
+
+}
+
+.heading {
+    color: salmon;
+    margin-top: 24px;
+}
+
+.list li {
+    padding: 4px;
+}
+
+.image {
+    border: 2px solid salmon;
+}
